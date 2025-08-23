@@ -1,4 +1,5 @@
 # Desafio Filmes
+
 ## Análises estatísticas dos Participantes
 
 Este repositório contém análises estatísticas sobre os filmes assistidos pelos participantes em cada uma das edições do Desafio Filmes, iniciado em 2024.
