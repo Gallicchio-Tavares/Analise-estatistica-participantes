@@ -1,39 +1,21 @@
-﻿id_tmdb,titulo_original,assistido_por,num_assistidos,ano_lancamento,pais,duracao_minutos,generos,diretor
-381,To Catch a Thief,"aNobree, mathamen",2,1955,United States of America,106,"Mistério, Romance, Thriller",Alfred Hitchcock
-571,The Birds,Brad_Pittson69,1,1963,United States of America,119,"Terror, Thriller",Alfred Hitchcock
-1883,Malcolm X,belovacomis,1,1992,United States of America,202,"Drama, História",Spike Lee
-5156,Ladri di biciclette,"Carol__Rosa, Belle_Is, UmaPessoaHumana",3,1948,Italy,90,Drama,Vittorio De Sica
-8852,Prince of Darkness,Carol__Rosa,1,1987,United States of America,102,Terror,John Carpenter
-11644,Blow Out,Tunim73,1,1981,United States of America,108,"Crime, Mistério, Thriller",Brian De Palma
-15484,Shadows,joaov0805,1,1960,United States of America,87,Drama,John Cassavetes
-23832,L'armata Brancaleone,Brad_Pittson69,1,1966,France,121,"Comédia, Aventura",Mario Monicelli
-24188,Il sorpasso,aNobree,1,1962,Italy,106,"Drama, Comédia, Aventura",Dino Risi
-27327,Phantom of the Paradise,EdzinhoHowlett,1,1974,United States of America,92,"Comédia, Fantasia, Terror, Música",Brian De Palma
-27958,Cruising,mathamen,1,1980,United States of America,106,"Crime, Mistério, Thriller",William Friedkin
-30017,کلوزآپ ، نمای نزدیک,Tunim73,1,1990,Iran,98,"Crime, Drama",Abbas Kiarostami
-39056,式日,joaov0805,1,2000,Japan,128,Drama,Hideaki Anno
-43376,Journal d'un curé de campagne,belovacomis,1,1951,France,111,Drama,Robert Bresson
-43771,گبه,Belle_Is,1,1996,Iran,72,"Drama, Mistério, Romance",Mohsen Makhmalbaf
-43984,گاو,mathamen,1,1969,Iran,105,Drama,Dariush Mehrjui
-47060,洞,Tunim73,1,1999,Taiwan,95,"Drama, Romance, Ficção científica",Tsai Ming-liang
-49964,خانه‌ی دوست کجاست؟,Carol__Rosa,1,1987,Iran,83,"Drama, Aventura",Abbas Kiarostami
-51857,Cría cuervos,"xeremel, UmaPessoaHumana",2,1976,Spain,105,Drama,Carlos Saura
-55835,Les Anges du péché,joaov0805,1,1943,France,86,Drama,Robert Bresson
-59408,Deep End,ok1na,1,1971,United Kingdom,88,"Drama, Comédia",Jerzy Skolimowski
-96001,Trabalhar Cansa,belovacomis,1,2011,Brazil,89,"Drama, Terror, Mistério",Marco Dutra
-99329,Mandabi,"xeremel, aNobree",2,1968,Senegal,92,"Comédia, Drama",Ousmane Sembène
-104343,東京战争戦後秘話,Tunim73,1,1970,Japan,94,"Drama, Mistério",Nagisa Ōshima
-139169,Прощание,Belle_Is,1,1983,Soviet Union,122,Drama,Elem Klimov
-186735,"Sem Essa, Aranha",EdzinhoHowlett,1,1970,Brazil,102,Comédia,Rogério Sganzerla
-186738,O Bandido da Luz Vermelha,"Brad_Pittson69, UmaPessoaHumana",2,1968,Brazil,92,"Thriller, Crime",Rogério Sganzerla
-194812,Também Somos Irmãos,"xeremel, aNobree",2,1949,Brazil,85,Drama,José Carlos Burle
-195152,O Profeta da Fome,xeremel,1,1970,Brazil,93,Drama,Maurice Capovila
-253371,Os Cosmonautas,EdzinhoHowlett,1,1962,Brazil,99,"Comédia, Ficção científica",Victor Lima
-254578,Phoenix,"ok1na, belovacomis",2,2014,Germany,98,Drama,Christian Petzold
-511819,Memoria,ok1na,1,2021,China,136,"Drama, Ficção científica, Mistério",Apichatpong Weerasethakul
-515908,Morto Não Fala,joaov0805,1,2019,Brazil,110,"Thriller, Terror, Mistério",Dennison Ramalho
-758866,ドライブ・マイ・カー,UmaPessoaHumana,1,2021,Japan,179,Drama,Ryusuke Hamaguchi
-931285,Mortal Kombat II,mathamen,1,2026,United States of America,116,"Ação, Fantasia, Aventura",Simon McQuoid
-936075,Michael,"EdzinhoHowlett, Carol__Rosa, Belle_Is",3,2026,United States of America,128,"Música, Drama",Antoine Fuqua
-1083381,Backrooms,Brad_Pittson69,1,2026,United States of America,110,"Terror, Mistério, Ficção científica",Kane Parsons
-1227877,I Love Boosters,ok1na,1,2026,United States of America,113,"Comédia, Ficção científica, Crime",Boots Riley
+﻿id_tmdb,titulo_pt,titulo_original,assistido_por,num_assistidos,ano_lancamento,pais,duracao_minutos,generos,diretor
+142,O Segredo de Brokeback Mountain,Brokeback Mountain,mathamen,1,2005,Canada,134,"Drama, Romance",Ang Lee
+599,Crepúsculo dos Deuses,Sunset Boulevard,moonerz,1,1950,United States of America,110,Drama,Billy Wilder
+1018,Cidade dos Sonhos,Mulholland Drive,houkaita,1,2001,France,147,"Thriller, Drama, Mistério",David Lynch
+4584,Razão e Sensibilidade,Sense and Sensibility,Belle_Is,1,1995,United States of America,136,"Drama, Romance",Ang Lee
+7512,Idiocracia,Idiocracy,Tunim73,1,2006,United States of America,84,"Comédia, Ficção científica, Aventura",Mike Judge
+54433,"Gamera, o Guardião do Universo",ガメラ 大怪獣空中決戦,joaov0805,1,1995,Japan,96,"Fantasia, Ficção científica, Ação, Terror",Shusuke Kaneko
+58129,A Carruagem Fantasma,Körkarlen,UmaPessoaHumana,1,1921,Sweden,108,"Drama, Fantasia, Terror",Victor Sjöström
+74360,"São Paulo, Sociedade Anônima","São Paulo, Sociedade Anônima",gusta42,1,1965,Brazil,109,Drama,Luiz Sérgio Person
+316029,O Rei do Show,The Greatest Showman,yatokami,1,2017,United States of America,104,Drama,Michael Gracey
+376867,Moonlight: Sob a Luz do Luar,Moonlight,danielzanzao,1,2016,United States of America,111,Drama,Barry Jenkins
+391713,Lady Bird - A Hora de Voar,Lady Bird,carolina__rosa,1,2017,United States of America,94,"Drama, Comédia",Greta Gerwig
+508642,Gonjiam: Manicômio Assombrado,곤지암,ok1na,1,2018,South Korea,95,"Terror, Mistério",Jung Bum-shik
+519141,Matthias & Maxime,Matthias & Maxime,catlovrr96,1,2019,Canada,119,"Drama, Romance",Xavier Dolan
+522627,Magnatas do Crime,The Gentlemen,"DenisseAraujo, matheuspc3",2,2020,United Kingdom,113,"Ação, Comédia, Crime",Guy Ritchie
+620249,A Lenda de Hei,罗小黑战记,ssophs,1,2019,China,101,"Animação, Fantasia, Ação",MTJJ
+837335,La Chimera,La chimera,batgabi,1,2023,Italy,131,"Drama, Fantasia, Comédia",Alice Rohrwacher
+936108,Smurfs,Smurfs,ValenteXD_,1,2025,United States of America,92,"Animação, Família, Fantasia",Chris Miller
+1165642,Separados pelas Estrelas,이 별에 필요한,xeremel,1,2025,South Korea,96,"Animação, Romance, Ficção científica, Drama",Han Ji-won
+1253971,A Vida por Philomena Cunk,Cunk on Life,EdzinhoHowlett,1,2024,United Kingdom,70,"Comédia, Cinema TV",Al Campbell
+1290205,As Garotas do Prédio,แฟลตเกิร์ล ชั้นห่างระหว่าง เ ร า,belovacomics,1,2025,Thailand,130,Drama,Jirassaya Wongsutin
