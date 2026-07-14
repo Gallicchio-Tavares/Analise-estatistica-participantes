@@ -1,7 +1,10 @@
 ﻿id_tmdb,titulo_pt,titulo_original,assistido_por,num_assistidos,ano_lancamento,pais,duracao_minutos,generos,diretor
 142,O Segredo de Brokeback Mountain,Brokeback Mountain,mathamen,1,2005,Canada,134,"Drama, Romance",Ang Lee
+147,Os Incompreendidos,Les Quatre Cents Coups,ssophs,1,1959,France,99,Drama,François Truffaut
 149,Akira,AKIRA,ValenteXD_,1,1988,Japan,124,"Animação, Ficção científica, Ação",Katsuhiro Otomo
+540,D.E.B.S. - As Super Espiãs,D.E.B.S.,carolina__rosa,1,2005,United States of America,91,"Ação, Comédia, Romance",Angela Robinson
 599,Crepúsculo dos Deuses,Sunset Boulevard,moonerz,1,1950,United States of America,110,Drama,Billy Wilder
+600,Nascido Para Matar,Full Metal Jacket,mathamen,1,1987,United Kingdom,117,"Drama, Guerra",Stanley Kubrick
 666,Central do Brasil,Central do Brasil,yatokami,1,1998,Brazil,110,Drama,Walter Salles
 670,Oldboy,올드보이,gusta42,1,2003,South Korea,120,"Thriller, Mistério",Park Chan-wook
 780,O Martírio de Joana D'Arc,La Passion de Jeanne d'Arc,houkaita,1,1928,France,110,"Drama, História",Carl Theodor Dreyer
@@ -11,31 +14,48 @@
 4584,Razão e Sensibilidade,Sense and Sensibility,Belle_Is,1,1995,United States of America,136,"Drama, Romance",Ang Lee
 6977,Onde os Fracos Não Têm Vez,No Country for Old Men,xeremel,1,2007,United States of America,122,"Crime, Thriller, Faroeste",Joel Coen
 7512,Idiocracia,Idiocracy,Tunim73,1,2006,United States of America,84,"Comédia, Ficção científica, Aventura",Mike Judge
+9837,O Príncipe do Egito,The Prince of Egypt,xeremel,1,1998,United States of America,99,"Aventura, Animação, Drama, Família",Simon Wells
 11423,Memórias de um Assassino,살인의 추억,moonerz,1,2003,South Korea,131,"Crime, Drama, Thriller",Bong Joon Ho
 15179,Patrik 1.5,"Patrik 1,5",EdzinhoHowlett,1,2008,Sweden,102,"Drama, Comédia",Ella Lemhagen
+26275,下妻物語,下妻物語,Belle_Is,1,2004,Japan,102,Comédia,Tetsuya Nakashima
+27337,リンダ リンダ リンダ,リンダ リンダ リンダ,houkaita,1,2005,Japan,115,"Comédia, Música, Drama",Nobuhiro Yamashita
 36685,The Rocky Horror Picture Show,The Rocky Horror Picture Show,carolina__rosa,1,1975,United Kingdom,100,"Comédia, Ficção científica, Terror",Jim Sharman
 40823,O Homem Que Copiava,O Homem Que Copiava,ok1na,1,2003,Brazil,123,"Comédia, Drama, Romance, Crime",Jorge Furtado
+42209,Os Trapalhões na Guerra dos Planetas,Os Trapalhões na Guerra dos Planetas,danielzanzao,1,1978,Brazil,89,"Aventura, Comédia, Família, Ficção científica",Adriano Stuart
 52561,O Homem Que Nunca Pecou,The Whole Town's Talking,UmaPessoaHumana,1,1935,United States of America,93,"Comédia, Crime",John Ford
 54433,"Gamera, o Guardião do Universo",ガメラ 大怪獣空中決戦,joaov0805,1,1995,Japan,96,"Fantasia, Ficção científica, Ação, Terror",Shusuke Kaneko
 58129,A Carruagem Fantasma,Körkarlen,UmaPessoaHumana,1,1921,Sweden,108,"Drama, Fantasia, Terror",Victor Sjöström
 59480,Gamera 2: Ataque da Legião,ガメラ2 レギオン襲来,joaov0805,1,1996,Japan,99,"Fantasia, Ficção científica, Terror",Shusuke Kaneko
+60159,Gamera 3: A Vingança de Iris,ガメラ3 邪神＜イリス＞覚醒,joaov0805,1,1999,Japan,107,"Fantasia, Ficção científica, Terror",Shusuke Kaneko
 74360,"São Paulo, Sociedade Anônima","São Paulo, Sociedade Anônima",gusta42,1,1965,Brazil,109,Drama,Luiz Sérgio Person
 77338,Intocáveis,Intouchables,mathamen,1,2011,France,112,"Drama, Comédia",Éric Toledano
+79860,Kyoshin,鏡心,moonerz,1,2005,Japan,61,Drama,Gakuryu Ishii
+103663,A Caça,Jagten,gusta42,1,2012,Denmark,116,Drama,Thomas Vinterberg
 316029,O Rei do Show,The Greatest Showman,yatokami,1,2017,United States of America,104,Drama,Michael Gracey
 319997,A Compadecida,A Compadecida,ssophs,1,1969,Brazil,104,"Comédia, Drama",George Jonas
 376867,Moonlight: Sob a Luz do Luar,Moonlight,danielzanzao,1,2016,United States of America,111,Drama,Barry Jenkins
 391713,Lady Bird - A Hora de Voar,Lady Bird,carolina__rosa,1,2017,United States of America,94,"Drama, Comédia",Greta Gerwig
+393559,Minha Vida de Abobrinha,Ma vie de courgette,belovacomics,1,2016,France,67,"Animação, Comédia, Drama",Claude Barras
 501929,A Família Mitchell e a Revolta das Máquinas,The Mitchells vs. the Machines,"DenisseAraujo, matheuspc3",2,2021,Hong Kong,90,"Animação, Aventura, Comédia",Mike Rianda
 508642,Gonjiam: Manicômio Assombrado,곤지암,ok1na,1,2018,South Korea,95,"Terror, Mistério",Jung Bum-shik
 519141,Matthias & Maxime,Matthias & Maxime,catlovrr96,1,2019,Canada,119,"Drama, Romance",Xavier Dolan
 522627,Magnatas do Crime,The Gentlemen,"DenisseAraujo, matheuspc3",2,2020,United Kingdom,113,"Ação, Comédia, Crime",Guy Ritchie
+537116,"tick, tick...BOOM!","tick, tick... BOOM!",ValenteXD_,1,2021,United States of America,115,"Drama, Música",Lin-Manuel Miranda
+579974,"RRR: Revolta, Rebelião, Revolução",రౌద్రం రణం రుధిరం,DenisseAraujo,1,2022,India,185,"Ação, História, Drama",S. S. Rajamouli
 620249,A Lenda de Hei,罗小黑战记,ssophs,1,2019,China,101,"Animação, Fantasia, Ação",MTJJ
 823219,Flow,Straume,danielzanzao,1,2024,Latvia,85,"Aventura, Animação, Família, Fantasia",Gints Zilbalodis
 837335,La Chimera,La chimera,batgabi,1,2023,Italy,131,"Drama, Fantasia, Comédia",Alice Rohrwacher
+846867,Mad God,Mad God,UmaPessoaHumana,1,2021,United States of America,84,"Animação, Fantasia, Terror, Ficção científica",Phil Tippett
+877703,Teen Wolf: O Filme,Teen Wolf: The Movie,catlovrr96,1,2023,United States of America,140,"Ação, Fantasia, Cinema TV",Russell Mulcahy
 936108,Smurfs,Smurfs,ValenteXD_,1,2025,United States of America,92,"Animação, Família, Fantasia",Chris Miller
 962571,جوائے لینڈ,جوائے لینڈ,belovacomics,1,2022,Pakistan,127,"Romance, Drama",Saim Sadiq
 1165642,Separados pelas Estrelas,이 별에 필요한,xeremel,1,2025,South Korea,96,"Animação, Romance, Ficção científica, Drama",Han Ji-won
+1171462,Golden Kamuy,ゴールデンカムイ,matheuspc3,1,2024,Japan,127,"Ação, Aventura, Comédia",Shigeaki Kubo
+1212763,A Morte do Demônio: Em Chamas,Evil Dead Burn,yatokami,1,2026,United States of America,117,"Terror, Thriller",Sébastien Vaniček
 1244244,Cloud - Nuvem de Vingança,Cloud クラウド,batgabi,1,2024,Japan,124,"Ação, Drama, Crime, Thriller",Kiyoshi Kurosawa
 1253971,A Vida por Philomena Cunk,Cunk on Life,EdzinhoHowlett,1,2024,United Kingdom,70,"Comédia, Cinema TV",Al Campbell
 1284120,A Meia-Irmã Feia,Den stygge stesøsteren,catlovrr96,1,2025,Denmark,109,"Terror, Comédia, Drama",Emilie Blichfeldt
 1290205,As Garotas do Prédio,แฟลตเกิร์ล ชั้นห่างระหว่าง เ ร า,belovacomics,1,2025,Thailand,130,Drama,Jirassaya Wongsutin
+1330021,Criaturas Extraordinariamente Brilhantes,Remarkably Bright Creatures,batgabi,1,2026,United States of America,114,"Drama, Mistério",Olivia Newman
+1333141,A Sapatona Galáctica,Lesbian Space Princess,EdzinhoHowlett,1,2025,Australia,87,"Animação, Comédia, Ficção científica, Aventura",Emma Hough Hobbs
+1339713,Obsessão,Obsession,ok1na,1,2026,United States of America,100,"Terror, Thriller",Curry Barker
