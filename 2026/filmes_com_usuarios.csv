@@ -1,5 +1,5 @@
 ﻿id_tmdb,titulo_pt,titulo_original,assistido_por,num_assistidos,ano_lancamento,pais,duracao_minutos,generos,diretor
-19,Metrópolis,Metropolis,"gusta42, ssophs",2,1927,Germany,153,"Drama, Ficção científica",Fritz Lang
+19,Metrópolis,Metropolis,"gusta42, ssophs, houkaita",3,1927,Germany,153,"Drama, Ficção científica",Fritz Lang
 63,Os 12 Macacos,Twelve Monkeys,mathamen,1,1995,United States of America,130,"Ficção científica, Thriller, Mistério",Terry Gilliam
 78,Blade Runner: O Caçador de Andróides,Blade Runner,danielzanzao,1,1982,United States of America,117,"Ficção científica, Drama, Thriller",Ridley Scott
 128,Princesa Mononoke,もののけ姫,DenisseAraujo,1,1997,Japan,134,"Aventura, Fantasia, Animação",Hayao Miyazaki
@@ -12,6 +12,7 @@
 307,"Roma, Cidade Aberta",Roma città aperta,gusta42,1,1945,Italy,103,"Drama, Guerra",Roberto Rossellini
 338,"Adeus, Lênin!","Good Bye, Lenin!",EdzinhoHowlett,1,2003,Germany,121,"Comédia, Drama",Wolfgang Becker
 348,Alien: O Oitavo Passageiro,Alien,"DenisseAraujo, gusta42",2,1979,United States of America,117,"Terror, Ficção científica",Ridley Scott
+406,O Ódio,La Haine,"belovacomics, gusta42",2,1995,France,98,Drama,Mathieu Kassovitz
 422,Oito e Meio,8½,houkaita,1,1963,Italy,139,Drama,Federico Fellini
 490,O Sétimo Selo,Det sjunde inseglet,yatokami,1,1957,Sweden,96,"Fantasia, Drama",Ingmar Bergman
 540,D.E.B.S. - As Super Espiãs,D.E.B.S.,carolina__rosa,1,2005,United States of America,91,"Ação, Comédia, Romance",Angela Robinson
@@ -27,6 +28,7 @@
 1018,Cidade dos Sonhos,Mulholland Drive,houkaita,1,2001,France,147,"Thriller, Drama, Mistério",David Lynch
 1124,O Grande Truque,The Prestige,gusta42,1,2006,United Kingdom,130,"Drama, Mistério, Ficção científica",Christopher Nolan
 1366,Rocky: Um Lutador,Rocky,Tunim73,1,1976,United States of America,119,Drama,John G. Avildsen
+1391,E Sua Mãe Também,Y tu mamá también,yatokami,1,2001,Mexico,105,"Drama, Romance",Alfonso Cuarón
 1398,Stalker,Сталкер,"mathamen, houkaita",2,1979,Soviet Union,162,"Ficção científica, Drama",Andrei Tarkovsky
 1495,Cruzada,Kingdom of Heaven,mathamen,1,2005,United States of America,144,"Drama, Ação, Aventura, História, Guerra",Ridley Scott
 2134,A Máquina do Tempo,The Time Machine,Belle_Is,1,1960,United States of America,103,"Thriller, Aventura, Fantasia, Ficção científica, Romance",George Pal
@@ -43,16 +45,16 @@
 9323,Ghost in the Shell: O Fantasma do Futuro,GHOST IN THE SHELL,"EdzinhoHowlett, matheuspc3",2,1995,Japan,82,"Ação, Animação, Ficção científica",Mamoru Oshii
 9428,Os Excêntricos Tenenbaums,The Royal Tenenbaums,matheuspc3,1,2001,United States of America,110,"Comédia, Drama",Wes Anderson
 9659,Mad Max,Mad Max,mathamen,1,1979,Australia,93,"Ação, Thriller, Ficção científica",George Miller
-9837,O Príncipe do Egito,The Prince of Egypt,xeremel,1,1998,United States of America,99,"Aventura, Animação, Drama, Família",Simon Wells
+9837,O Príncipe do Egito,The Prince of Egypt,xeremel,1,1998,United States of America,99,"Aventura, Animação, Drama, Família",Steve Hickner
 10362,Amantes,Two Lovers,gusta42,1,2008,United States of America,110,"Drama, Romance",James Gray
 10494,Perfect Blue,PERFECT BLUE,gusta42,1,1998,Japan,85,"Animação, Thriller",Satoshi Kon
 10634,Sexta-feira em Apuros,Friday,moonerz,1,1995,United States of America,97,"Comédia, Drama",F. Gary Gray
 10818,Lírios d'água,Naissance des pieuvres,xeremel,1,2007,France,85,"Drama, Romance",Céline Sciamma
-11220,Anjos Caídos,墮落天使,xeremel,1,1995,Hong Kong,99,"Ação, Romance, Crime",Wong Kar-Wai
+11220,Anjos Caídos,墮落天使,"xeremel, moonerz",2,1995,Hong Kong,99,"Ação, Romance, Crime",Wong Kar-Wai
 11423,Memórias de um Assassino,살인의 추억,moonerz,1,2003,South Korea,131,"Crime, Drama, Thriller",Bong Joon Ho
 11631,Mamma Mia!,Mamma Mia!,moonerz,1,2008,Germany,98,"Comédia, Romance",Phyllida Lloyd
 13223,Gran Torino,Gran Torino,"matheuspc3, xeremel",2,2008,United States of America,116,Drama,Clint Eastwood
-14132,Macross: A Batalha Final,超時空要塞マクロス 愛・おぼえていますか,euamo_mangoloco,1,1984,Japan,115,"Animação, Ficção científica, Guerra, Ação",Shoji Kawamori
+14132,Macross: A Batalha Final,超時空要塞マクロス 愛・おぼえていますか,euamo_mangoloco,1,1984,Japan,115,"Animação, Ficção científica, Guerra, Ação",Noboru Ishiguro
 14421,O Ano em que Meus Pais Saíram de Férias,O Ano em que Meus Pais Saíram de Férias,belovacomics,1,2006,Brazil,103,Drama,Cao Hamburger
 15179,Patrik 1.5,"Patrik 1,5",EdzinhoHowlett,1,2008,Sweden,102,"Drama, Comédia",Ella Lemhagen
 17295,A Batalha de Argel,La battaglia di Algeri,EdzinhoHowlett,1,1966,Italy,121,"Drama, Guerra, História",Gillo Pontecorvo
@@ -67,6 +69,7 @@
 30913,À Meia Noite Levarei Sua Alma,À Meia Noite Levarei Sua Alma,houkaita,1,1964,Brazil,84,"Terror, Thriller, Fantasia",José Mojica Marins
 31056,Não Amarás,Krótki film o miłości,"moonerz, xeremel",2,1988,Poland,87,"Drama, Romance",Krzysztof Kieślowski
 36685,The Rocky Horror Picture Show,The Rocky Horror Picture Show,"carolina__rosa, houkaita",2,1975,United Kingdom,100,"Comédia, Ficção científica, Terror",Jim Sharman
+40693,Paris em Abril,April in Paris,ssophs,1,1952,United States of America,100,"Comédia, Música, Romance",David Butler
 40823,O Homem Que Copiava,O Homem Que Copiava,"ok1na, EdzinhoHowlett",2,2003,Brazil,123,"Comédia, Drama, Romance, Crime",Jorge Furtado
 42031,A Hora da Estrela,A Hora da Estrela,Belle_Is,1,1986,Brazil,96,Drama,Suzana Amaral
 42209,Os Trapalhões na Guerra dos Planetas,Os Trapalhões na Guerra dos Planetas,danielzanzao,1,1978,Brazil,89,"Aventura, Comédia, Família, Ficção científica",Adriano Stuart
@@ -79,18 +82,20 @@
 52561,O Homem Que Nunca Pecou,The Whole Town's Talking,UmaPessoaHumana,1,1935,United States of America,93,"Comédia, Crime",John Ford
 54433,"Gamera, o Guardião do Universo",ガメラ 大怪獣空中決戦,euamo_mangoloco,1,1995,Japan,96,"Fantasia, Ficção científica, Ação, Terror",Shusuke Kaneko
 57158,O Hobbit: A Desolação de Smaug,The Hobbit: The Desolation of Smaug,Belle_Is,1,2013,New Zealand,187,"Fantasia, Aventura, Ação",Peter Jackson
-57811,Terra Estrangeira,Terra Estrangeira,belovacomics,1,1996,Brazil,110,"Drama, Thriller, Romance",Walter Salles
+57811,Terra Estrangeira,Terra Estrangeira,belovacomics,1,1996,Brazil,110,"Drama, Thriller, Romance",Daniela Thomas
 58129,A Carruagem Fantasma,Körkarlen,UmaPessoaHumana,1,1921,Sweden,108,"Drama, Fantasia, Terror",Victor Sjöström
 58416,"Pidä huivista kiinni, Tatjana","Pidä huivista kiinni, Tatjana",ssophs,1,1994,Finland,62,"Comédia, Romance",Aki Kaurismäki
 59480,Gamera 2: Ataque da Legião,ガメラ2 レギオン襲来,euamo_mangoloco,1,1996,Japan,99,"Fantasia, Ficção científica, Terror",Shusuke Kaneko
 60159,Gamera 3: A Vingança de Iris,ガメラ3 邪神＜イリス＞覚醒,euamo_mangoloco,1,1999,Japan,107,"Fantasia, Ficção científica, Terror",Shusuke Kaneko
 64690,Drive,Drive,ValenteXD_,1,2011,United States of America,96,"Drama, Thriller, Crime",Nicolas Winding Refn
+73922,O Visitante do Museu,Посетитель музея,euamo_mangoloco,1,1989,Germany,128,"Drama, Ficção científica",Konstantin Lopushansky
 74360,"São Paulo, Sociedade Anônima","São Paulo, Sociedade Anônima",gusta42,1,1965,Brazil,109,Drama,Luiz Sérgio Person
 77338,Intocáveis,Intouchables,mathamen,1,2011,France,112,"Drama, Comédia",Éric Toledano
 77771,A Viagem da Hiena,Touki-Bouki,UmaPessoaHumana,1,1973,Senegal,91,"Drama, Romance",Djibril Diop Mambéty
 79860,Kyoshin,鏡心,moonerz,1,2005,Japan,61,Drama,Gakuryu Ishii
 81857,Alpes,Άλπεις,ssophs,1,2011,Canada,94,Drama,Yorgos Lanthimos
 89825,おまえうまそうだな,おまえうまそうだな,ok1na,1,2010,Japan,89,"Aventura, Animação, Família",Masaya Fujimori
+91378,O Despertar da Besta,O Despertar da Besta,UmaPessoaHumana,1,1970,Brazil,92,"Terror, Drama",José Mojica Marins
 94329,Operação Invasão,Serbuan Maut,yatokami,1,2012,Indonesia,101,"Ação, Thriller, Crime",Gareth Evans
 94525,Uma Página de Loucura,狂った一頁,carolina__rosa,1,1926,Japan,71,"Terror, Drama",Teinosuke Kinugasa
 95597,Garota Negra,La Noire de...,houkaita,1,1966,France,59,Drama,Ousmane Sembène
@@ -101,7 +106,9 @@
 122917,O Hobbit: A Batalha dos Cinco Exércitos,The Hobbit: The Battle of the Five Armies,Belle_Is,1,2014,New Zealand,165,"Ação, Aventura, Fantasia",Peter Jackson
 124485,Retrato de uma Garota do Fim dos Anos 60 em Bruxelas,Portrait d’une jeune fille de la fin des années 60 à Bruxelles,euamo_mangoloco,1,1994,France,60,"Cinema TV, Drama, Romance",Chantal Akerman
 124611,Sevmek Zamanı,Sevmek Zamanı,ssophs,1,1965,Turkey,89,"Drama, Romance",Metin Erksan
+129112,O Sonho de Wadjda,Das Mädchen Wadjda,batgabi,1,2012,Germany,93,Drama,Haifaa al-Mansour
 146075,"Rio, 40 Graus","Rio, 40 Graus",EdzinhoHowlett,1,1955,Brazil,91,Drama,Nelson Pereira dos Santos
+175125,Matou a Família e Foi ao Cinema,Matou a Família e Foi ao Cinema,EdzinhoHowlett,1,1969,Brazil,64,"Drama, Comédia",Júlio Bressane
 194858,A Ostra e o Vento,A Ostra e o Vento,ValenteXD_,1,1997,Brazil,117,"Drama, Fantasia",Walter Lima Jr.
 240566,Gangues de Tóquio,TOKYO TRIBE,euamo_mangoloco,1,2014,Japan,116,"Música, Ficção científica, Ação, Drama, Crime",Sion Sono
 244265,Daliás idők,Daliás idők,mathamen,1,1984,Hungary,83,"Animação, História, Guerra",József Gémes
@@ -123,15 +130,19 @@
 408220,Liga da Justiça Sombria,Justice League Dark,yatokami,1,2017,United States of America,75,"Animação, Ação, Aventura, Fantasia, Ficção científica, Terror",Jay Oliva
 435129,A Ganha-Pão,The Breadwinner,belovacomics,1,2017,Canada,93,"Animação, Guerra, Drama",Nora Twomey
 449406,A Jornada de Vivo,Vivo,DenisseAraujo,1,2021,United States of America,99,"Animação, Família, Comédia, Música",Kirk DeMicco
+454639,Mestres do Universo,Masters of the Universe,DenisseAraujo,1,2026,United States of America,133,"Ação, Fantasia, Ficção científica",Travis Knight
 467905,Manual Prático da Vingança Lucrativa,How to Make a Killing,catlovrr96,1,2026,United Kingdom,105,"Comédia, Thriller",John Patton Ford
 487558,Infiltrado Na Klan,BlacKkKlansman,ok1na,1,2018,United States of America,128,"Crime, Comédia, Drama, História",Spike Lee
+496243,Parasita,기생충,ValenteXD_,1,2019,South Korea,132,"Comédia, Thriller, Drama",Bong Joon Ho
 499537,A Casa Lobo,La casa lobo,moonerz,1,2018,Chile,75,"Animação, Terror, Drama",Joaquín Cociña
 501929,A Família Mitchell e a Revolta das Máquinas,The Mitchells vs. the Machines,"DenisseAraujo, matheuspc3",2,2021,Hong Kong,90,"Animação, Aventura, Comédia",Mike Rianda
 505600,Fora de Série,Booksmart,ok1na,1,2019,United States of America,102,Comédia,Olivia Wilde
 508642,Gonjiam: Manicômio Assombrado,곤지암,ok1na,1,2018,South Korea,95,"Terror, Mistério",Jung Bum-shik
 519141,Matthias & Maxime,Matthias & Maxime,catlovrr96,1,2019,Canada,119,"Drama, Romance",Xavier Dolan
 522627,Magnatas do Crime,The Gentlemen,"DenisseAraujo, matheuspc3",2,2020,United Kingdom,113,"Ação, Comédia, Crime",Guy Ritchie
+524780,Dogs Don't Wear Pants,Koirat eivät käytä housuja,xeremel,1,2019,Finland,101,Drama,J-P Valkeapää
 528085,2067,2067,yatokami,1,2020,Australia,114,Ficção científica,Seth Larney
+530385,Midsommar: O Mal Não Espera a Noite,Midsommar,carolina__rosa,1,2019,Sweden,148,"Terror, Drama, Mistério",Ari Aster
 537116,"tick, tick...BOOM!","tick, tick... BOOM!",ValenteXD_,1,2021,United States of America,115,"Drama, Música",Lin-Manuel Miranda
 575604,A Ligação,콜,yatokami,1,2020,South Korea,112,"Thriller, Mistério, Ficção científica",Lee Chung-hyun
 579974,"RRR: Revolta, Rebelião, Revolução",రౌద్రం రణం రుధిరం,DenisseAraujo,1,2022,India,185,"Ação, História, Drama",S. S. Rajamouli
@@ -139,6 +150,7 @@
 614945,Mensagens para Isabelle,Voicemails for Isabelle,"danielzanzao, catlovrr96",2,2026,United States of America,119,"Romance, Comédia",Leah McKendrick
 620249,A Lenda de Hei,罗小黑战记,ssophs,1,2019,China,101,"Animação, Fantasia, Ação",MTJJ
 639988,A Única Saída,어쩔수가없다,batgabi,1,2025,South Korea,139,"Comédia, Crime, Thriller",Park Chan-wook
+661231,O Soldado que Não Existiu,Operation Mincemeat,mathamen,1,2022,United Kingdom,127,"Guerra, História, Drama",John Madden
 680593,Demoníaca,The Dark and the Wicked,ok1na,1,2020,United States of America,95,Terror,Bryan Bertino
 682012,A Pequena Amélie,Amélie et la métaphysique des tubes,belovacomics,1,2025,France,79,"Animação, Drama, Família",Maïlys Vallade
 687163,Devoradores de Estrelas,Project Hail Mary,ok1na,1,2026,United States of America,157,"Ficção científica, Aventura",Phil Lord
@@ -157,6 +169,7 @@
 901563,Close,Close,catlovrr96,1,2022,Belgium,104,Drama,Lukas Dhont
 915935,Anatomia de uma Queda,Anatomie d'une chute,Belle_Is,1,2023,France,151,"Thriller, Mistério, Crime",Justine Triet
 916224,Suzume,すずめの戸締まり,ok1na,1,2022,Japan,121,"Animação, Drama, Aventura, Fantasia",Makoto Shinkai
+930094,"Vermelho, Branco e Sangue Azul","Red, White & Royal Blue",catlovrr96,1,2023,United States of America,118,"Comédia, Romance",Matthew López
 936108,Smurfs,Smurfs,ValenteXD_,1,2025,United States of America,92,"Animação, Família, Fantasia",Chris Miller
 938436,In The Heart Of The Machine,В сърцето на машината,ValenteXD_,1,2022,Bulgaria,115,"Drama, Thriller",Martin Makariev
 950028,O Convite,The Invite,"moonerz, xeremel",2,2026,United States of America,107,"Drama, Comédia",Olivia Wilde
@@ -164,7 +177,10 @@
 982843,A Grande Inundação,대홍수,carolina__rosa,1,2025,South Korea,108,"Ficção científica, Aventura, Drama",Kim Byung-woo
 983883,Um Romance do Além,關於我和鬼變成家人的那件事,"DenisseAraujo, matheuspc3",2,2023,Taiwan,129,"Comédia, Ação, Terror",Cheng Wei-hao
 988402,Vampira Humanista Procura Suicida Voluntário,Vampire humaniste cherche suicidaire consentant,"Belle_Is, ValenteXD_",2,2023,Canada,91,"Comédia, Fantasia, Terror",Ariane Louis-Seize
+1030588,化け猫あんずちゃん,化け猫あんずちゃん,ok1na,1,2024,Japan,94,"Animação, Fantasia, Comédia, Família",Yoko Kuno
+1032472,Touch,Snerting,Belle_Is,1,2024,Iceland,121,"Romance, Drama",Baltasar Kormákur
 1059128,Queer,Queer,ValenteXD_,1,2024,Italy,138,"Drama, Romance",Luca Guadagnino
+1084199,Acompanhante Perfeita,Companion,danielzanzao,1,2025,United States of America,97,"Terror, Ficção científica, Thriller",Drew Hancock
 1084244,Toy Story 5,Toy Story 5,"gusta42, carolina__rosa",2,2026,United States of America,100,"Animação, Família, Comédia, Aventura",Andrew Stanton
 1086747,Os Observadores,The Watchers,carolina__rosa,1,2024,United States of America,102,"Fantasia, Terror, Mistério",Ishana Night Shyamalan
 1119173,Uma Linda Vida,A Beautiful Life,matheuspc3,1,2023,Denmark,99,"Drama, Música, Romance",Mehdi Avaz
@@ -189,4 +205,5 @@
 1339713,Obsessão,Obsession,ok1na,1,2026,United States of America,100,"Terror, Thriller",Curry Barker
 1368337,A Odisseia,The Odyssey,"belovacomics, carolina__rosa, danielzanzao, DenisseAraujo, batgabi, catlovrr96, yatokami, matheuspc3, UmaPessoaHumana, gusta42",10,2026,United Kingdom,172,"Aventura, Ação, Fantasia",Christopher Nolan
 1403855,A Natureza das Coisas Invisíveis,A Natureza das Coisas Invisíveis,carolina__rosa,1,2025,Brazil,90,Drama,Rafaela Camelo
+1443762,O Falsário,Il falsario,matheuspc3,1,2025,Italy,110,"Thriller, Crime, Drama",Stefano Lodovichi
 1451344,Maridos em Ação,남편들,danielzanzao,1,2026,South Korea,110,"Comédia, Ação",Park Gyu-tae
